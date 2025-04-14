@@ -1,5 +1,0 @@
-version: STSv1
-mode: enforce
-mx: mx1.mail.ovh.net
-mx: mx2.mail.ovh.net
-max_age: 86400
